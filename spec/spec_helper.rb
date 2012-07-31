@@ -1,5 +1,8 @@
 # encoding: utf-8
 
+require 'rubygems'
+require 'bundler'
+Bundler.setup
 require 'veritas'
 require 'spec'
 require 'spec/autorun'
